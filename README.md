@@ -28,6 +28,8 @@ for multiple usernames and passwords. With Wyvern, *you* are in control of your
 data and communities can take back control from large-scale corporations.
 
 ## How to use
+For now the app is to be treated as early development but you are free to try it out!
+
 We recommend using Wyvern using the official app. You can use it [Here](https://wyvrn.app/wyvern).
 
 ## Contrubuting
